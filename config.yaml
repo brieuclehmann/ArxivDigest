@@ -21,7 +21,7 @@ threshold: 7
 # This can be empty, which just return a full list of papers with no judgement or filtering,
 # in whatever order arXiv responds with.
 interest: |
-  1. Health equity
-  2. Algorithmic fairness
-  3. Experimental design
-  4. Uncertainty quantification
+  1. I am interested in methodological papers that are explicitly concerned with issues of health equity and algorithmic fairness. 
+  2. I am interested in papers on optimal experimental design, particularly within the Bayesian paradigm.
+  3. I am interested in papers on causal inference, especially those in the Bayesian paradigm and those concerned with generalisability and transportability.
+  4. I am interested in papers that are concerned with characterising diversity or representativeness of datasets.
